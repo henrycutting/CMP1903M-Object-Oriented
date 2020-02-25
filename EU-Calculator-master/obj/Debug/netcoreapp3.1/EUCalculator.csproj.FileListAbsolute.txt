@@ -1,0 +1,11 @@
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.exe
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.deps.json
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.runtimeconfig.json
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.runtimeconfig.dev.json
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.dll
+C:\Users\henry\source\repos\EU-Calculator-master\bin\Debug\netcoreapp3.1\EUCalculator.pdb
+C:\Users\henry\source\repos\EU-Calculator-master\obj\Debug\netcoreapp3.1\EUCalculator.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\EU-Calculator-master\obj\Debug\netcoreapp3.1\EUCalculator.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\EU-Calculator-master\obj\Debug\netcoreapp3.1\EUCalculator.AssemblyInfo.cs
+C:\Users\henry\source\repos\EU-Calculator-master\obj\Debug\netcoreapp3.1\EUCalculator.dll
+C:\Users\henry\source\repos\EU-Calculator-master\obj\Debug\netcoreapp3.1\EUCalculator.pdb
